@@ -10,7 +10,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 
 # Lista de códigos de las monedas (ejemplo: USD, EUR, etc.)
-monedas = ["REF", "EUR", "CHF", "GBP", "JPY", "BRL", "CAD", "CNH", "UYU", "XDR"]
+monedas = ["USD", "EUR", "CHF", "GBP", "JPY", "BRL", "CAD", "CNH", "UYU", "XDR"]
 
 # Fechas de consulta
 fecha_desde = "2021-01-01"
